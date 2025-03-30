@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw3pgZIqcdJsLaWHnDr-_Kc0&ust=1743402536930000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiNxLiXsYwDFQAAAAAdAAAAABAQ" height="40" alt="html logo"  />
+  <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
