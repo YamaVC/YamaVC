@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy aprendiendo Javascript<br>🎯 Aspiro convertirme en programador<br>🎲 Dato divertido: soluciono los bugs como si fueran side quest de algún videojuego</p>
+<p align="left">📚 Actualmente estoy aprendiendo Angular y MongoDB <br>🎯 Aspiro convertirme en programador backend<br>🎲 Dato divertido: soluciono los bugs como si fueran side quest de algún videojuego</p>
 
 ###
 
